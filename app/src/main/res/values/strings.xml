@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Local Banks</string>
+    
+    <string name="dbs">星展银行</string>
+    <string name="ocbc">华侨银行</string>
+    <string name="uob">大华银行</string>
+</resources>
